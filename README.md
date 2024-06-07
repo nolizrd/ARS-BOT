@@ -1,7 +1,7 @@
 # Привет, я робот АРС! 🤖
 
 <div align="center">
-  <img src="https://github.com/nolizrd/ARS-BOT/assets/26836740/0cb9362c-db62-45ca-bd60-ccac80f62fb7" alt="Робот АРС">
+  <img src="https://github.com/nolizrd/ARS-BOT/assets/26836740/0cb9362c-db62-45ca-bd60-ccac80f62fb7" alt="Робот АРС" width="200">
 </div>
 
 
